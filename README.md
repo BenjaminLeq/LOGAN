@@ -35,6 +35,9 @@ Il cherchera dans la base de données les articles comportant les mots-clés de 
 
 ![image](https://github.com/user-attachments/assets/a219de2f-6f3a-498b-b149-00a2eca6f8c7)
 
+## Mise à jour
+02/02/2025 : changement des icônes des fenêtres et des boutons.
+
 
 
 
